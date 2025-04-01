@@ -1,0 +1,80 @@
+Time resolution is 1 ps
+IDLE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  1, ps2_data: 1, Shift Reg: 00000000000
+CAPTURE: Bit Count:  2, ps2_data: 1, Shift Reg: 00100000000
+CAPTURE: Bit Count:  3, ps2_data: 0, Shift Reg: 00110000000
+CAPTURE: Bit Count:  4, ps2_data: 1, Shift Reg: 00011000000
+CAPTURE: Bit Count:  5, ps2_data: 0, Shift Reg: 00101100000
+CAPTURE: Bit Count:  6, ps2_data: 0, Shift Reg: 00010110000
+CAPTURE: Bit Count:  7, ps2_data: 0, Shift Reg: 00001011000
+Captured Shift Register: 00001011000
+PARITY: Bit Count:  0, ps2_data: 0, Shift Reg: 00000101100
+Parity Check Passed
+Decoding Scan Code: 16
+IDLE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000101100
+CAPTURE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  1, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  2, ps2_data: 1, Shift Reg: 00000000000
+CAPTURE: Bit Count:  3, ps2_data: 1, Shift Reg: 00100000000
+CAPTURE: Bit Count:  4, ps2_data: 1, Shift Reg: 00110000000
+CAPTURE: Bit Count:  5, ps2_data: 0, Shift Reg: 00111000000
+CAPTURE: Bit Count:  6, ps2_data: 0, Shift Reg: 00011100000
+CAPTURE: Bit Count:  7, ps2_data: 0, Shift Reg: 00001110000
+Captured Shift Register: 00001110000
+PARITY: Bit Count:  0, ps2_data: 0, Shift Reg: 00000111000
+Parity Check Passed
+Decoding Scan Code: 1c
+IDLE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000111000
+CAPTURE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  1, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  2, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  3, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  4, ps2_data: 1, Shift Reg: 00000000000
+CAPTURE: Bit Count:  5, ps2_data: 1, Shift Reg: 00100000000
+CAPTURE: Bit Count:  6, ps2_data: 1, Shift Reg: 00110000000
+CAPTURE: Bit Count:  7, ps2_data: 1, Shift Reg: 00111000000
+Captured Shift Register: 00111000000
+PARITY: Bit Count:  0, ps2_data: 1, Shift Reg: 00111100000
+Parity Check Passed
+Break Code Detected
+IDLE: Bit Count:  0, ps2_data: 0, Shift Reg: 00111100000
+CAPTURE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  1, ps2_data: 1, Shift Reg: 00000000000
+CAPTURE: Bit Count:  2, ps2_data: 1, Shift Reg: 00100000000
+CAPTURE: Bit Count:  3, ps2_data: 0, Shift Reg: 00110000000
+CAPTURE: Bit Count:  4, ps2_data: 1, Shift Reg: 00011000000
+CAPTURE: Bit Count:  5, ps2_data: 0, Shift Reg: 00101100000
+CAPTURE: Bit Count:  6, ps2_data: 0, Shift Reg: 00010110000
+CAPTURE: Bit Count:  7, ps2_data: 0, Shift Reg: 00001011000
+Captured Shift Register: 00001011000
+PARITY: Bit Count:  0, ps2_data: 0, Shift Reg: 00000101100
+Parity Check Passed
+Key Released: 16
+IDLE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000101100
+CAPTURE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  1, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  2, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  3, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  4, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  5, ps2_data: 1, Shift Reg: 00000000000
+CAPTURE: Bit Count:  6, ps2_data: 1, Shift Reg: 00100000000
+CAPTURE: Bit Count:  7, ps2_data: 1, Shift Reg: 00110000000
+Captured Shift Register: 00110000000
+PARITY: Bit Count:  0, ps2_data: 0, Shift Reg: 00111000000
+Parity Check Passed
+Extended Code Detected
+IDLE: Bit Count:  0, ps2_data: 0, Shift Reg: 00111000000
+CAPTURE: Bit Count:  0, ps2_data: 0, Shift Reg: 00000000000
+CAPTURE: Bit Count:  1, ps2_data: 1, Shift Reg: 00000000000
+CAPTURE: Bit Count:  2, ps2_data: 0, Shift Reg: 00100000000
+CAPTURE: Bit Count:  3, ps2_data: 0, Shift Reg: 00010000000
+CAPTURE: Bit Count:  4, ps2_data: 0, Shift Reg: 00001000000
+CAPTURE: Bit Count:  5, ps2_data: 0, Shift Reg: 00000100000
+CAPTURE: Bit Count:  6, ps2_data: 1, Shift Reg: 00000010000
+CAPTURE: Bit Count:  7, ps2_data: 0, Shift Reg: 00100001000
+Captured Shift Register: 00100001000
+PARITY: Bit Count:  0, ps2_data: 1, Shift Reg: 00010000100
+Parity Check Passed
+Decoding Scan Code: 42
+$stop called at time : 1750 ns : File "/home/teixeira/PS2_Keyboard_V2/PS2_Keyboard/PS2_Keyboard.srcs/sim_1/new/tb_ps2_keyboard.v" Line 91

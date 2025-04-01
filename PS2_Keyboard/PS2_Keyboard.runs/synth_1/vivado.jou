@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:31 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Tue Mar 25 15:49:50 2025
+# Process ID         : 36880
+# Current directory  : /home/teixeira/PS2_Keyboard_V2/PS2_Keyboard/PS2_Keyboard.runs/synth_1
+# Command line       : vivado -log ps2_keyboard.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ps2_keyboard.tcl
+# Log file           : /home/teixeira/PS2_Keyboard_V2/PS2_Keyboard/PS2_Keyboard.runs/synth_1/ps2_keyboard.vds
+# Journal file       : /home/teixeira/PS2_Keyboard_V2/PS2_Keyboard/PS2_Keyboard.runs/synth_1/vivado.jou
+# Running On         : teixeira-LOQ-15IRX9
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.1 LTS
+# Processor Detail   : Intel(R) Core(TM) i7-14700HX
+# CPU Frequency      : 800.208 MHz
+# CPU Physical cores : 20
+# CPU Logical cores  : 28
+# Host memory        : 33342 MB
+# Swap memory        : 8589 MB
+# Total Virtual      : 41932 MB
+# Available Virtual  : 33375 MB
+#-----------------------------------------------------------
+source ps2_keyboard.tcl -notrace
